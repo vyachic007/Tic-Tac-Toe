@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">JavaLab78</string>
+<string name="turn">Ход %1$s</string>
+<string name="score">X: %1$d     -     O: %2$d</string>
+<string name="draw">Ничья!</string>
+<string name="winner">Победитель: %1$s</string>
+</resources>
